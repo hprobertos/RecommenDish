@@ -1,5 +1,6 @@
 # RecommenDish
 Android app for school project
+![Image](https://hprobertos.github.io/images/pic6.jpg)
 
 I do not own most of the content used in this project like: 
 * Images 
